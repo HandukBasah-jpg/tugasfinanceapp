@@ -1,3 +1,9 @@
-# finnanceapp
+# Tugas 2 Pemrograman Mobile
 
-A new Flutter project.
+## Aspek-aspek yang di edit
+
+- Color
+- Font
+- Grid
+- Splash screem
+
